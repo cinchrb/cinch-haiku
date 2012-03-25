@@ -1,4 +1,4 @@
-# Daiku plugin
+# Haiku plugin
 
 Fetches a random haiku from dailyhaiku.org and displays it.
 
