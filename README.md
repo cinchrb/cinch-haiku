@@ -1,15 +1,16 @@
-TODO: write description, check class name, list commands, list options
 # Daiku plugin
 
 Fetches a random haiku from dailyhaiku.org and displays it.
 
 ## Installation
 First install the gem by running:
+
 ```
 [sudo] gem install cinch-haiku
 ```
 
 Then load it in your bot:
+
 ```ruby
 require "cinch"
 require "cinch/plugins/haiku"
